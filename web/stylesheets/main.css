@@ -12,22 +12,13 @@
 }
 .jumbotron p {
   color: #d9ccee;
-  max-width: 75%;
-  margin: 1em auto 2em;
+  font-size: 30px;
 }
 
-.jumbotron p2 {
-  color: #d9ccee;
-  max-width: 75%;
-  margin: 1em auto 2em;
-}
 .jumbotron h1 {
   font-size: 40px;
 }
 
-.jumbotron h2 {
-  font-size: 40px;
-}
 .navbar + .jumbotron {
   margin-top: -20px;
 }
